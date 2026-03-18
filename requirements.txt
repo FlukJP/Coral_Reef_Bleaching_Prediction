@@ -6,3 +6,4 @@ joblib
 tensorflow
 ydata-profiling
 ipywidgets
+imblearn
